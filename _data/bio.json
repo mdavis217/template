@@ -30,8 +30,14 @@
   "interests": [
     {
       "name": "poetry",
+      "keywords": [
+        ]
     },
-    
+    {
+      "name": "surfing",
+      "keywords": [
+        ]
+    }
   ],
   "skills": [
     {
